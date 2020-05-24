@@ -29,7 +29,7 @@ Arduino UNO
 
 ## Authors
 
-* **David Nazareno** - *Initial work* - [PurpleBooth](https://github.com/DaviidNzareno)
+* **David Nazareno** - *Initial work* - [DaviidNzareno](https://github.com/DaviidNzareno)
 ## License
 
 This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
